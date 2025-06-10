@@ -1,0 +1,36 @@
+{
+  "archivedAt": "2025-01-17T00:00:00.000Z",
+  "archivedFor": "2025",
+  "data": [
+    {
+      "date": "2025-05-03",
+      "isDefault": true,
+      "rooms": [
+        {
+          "id": "room-1",
+          "name": "Main Auditorium",
+          "sessions": [
+            {
+              "id": "sample-session-1",
+              "title": "Sample Session 1",
+              "startsAt": "09:00",
+              "endsAt": "09:50"
+            }
+          ]
+        },
+        {
+          "id": "room-2", 
+          "name": "Workshop Room",
+          "sessions": [
+            {
+              "id": "sample-session-2",
+              "title": "Sample Session 2", 
+              "startsAt": "10:00",
+              "endsAt": "10:50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "archivedAt": "2025-01-17T00:00:00.000Z",
+  "archivedFor": "2025",
+  "data": [
+    {
+      "id": "sample-session-1",
+      "title": "Sample Session 1",
+      "description": "This is a sample session for testing the archive system",
+      "speakers": ["speaker-1"],
+      "categoryItems": [{"name": "Web Development"}],
+      "startsAt": "2025-05-03T09:00:00",
+      "endsAt": "2025-05-03T09:50:00",
+      "isServiceSession": false
+    },
+    {
+      "id": "sample-session-2", 
+      "title": "Sample Session 2",
+      "description": "Another sample session for testing",
+      "speakers": ["speaker-2"],
+      "categoryItems": [{"name": "JavaScript"}],
+      "startsAt": "2025-05-03T10:00:00",
+      "endsAt": "2025-05-03T10:50:00",
+      "isServiceSession": false
+    }
+  ]
+}
