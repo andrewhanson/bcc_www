@@ -1,0 +1,26 @@
+{
+  "archivedAt": "2025-01-17T00:00:00.000Z",
+  "archivedFor": "2025",
+  "data": [
+    {
+      "id": "speaker-1",
+      "firstName": "John",
+      "lastName": "Developer",
+      "bio": "John is a full-stack developer with 10 years of experience",
+      "tagLine": "Full Stack Developer",
+      "profilePicture": "",
+      "sessions": ["sample-session-1"],
+      "links": []
+    },
+    {
+      "id": "speaker-2",
+      "firstName": "Jane",
+      "lastName": "Coder",
+      "bio": "Jane specializes in JavaScript and modern web frameworks",
+      "tagLine": "JavaScript Expert",
+      "profilePicture": "",
+      "sessions": ["sample-session-2"],
+      "links": []
+    }
+  ]
+}
